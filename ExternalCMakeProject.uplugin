@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "ExternalCMakeProject",
+	"Description": "",
+	"EnabledByDefault": true,
+	"CanContainContent": true,
+	"Modules": [
+		{
+			"Name": "ExternalCMakeProject",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
